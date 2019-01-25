@@ -1,0 +1,4 @@
+.terraform
+kubeconfig-*
+config_map_aws_auth-*.yaml
+*.key
